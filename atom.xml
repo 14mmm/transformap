@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>TransforMap</title>
+	<link href="http://transformap.co/atom.xml" rel="self"/>
+	<link href="http://transformap.co"/>
+	<updated>2015-04-30T00:17:48.502Z</updated>
+	<id>http://transformap.co</id>
+	<author>
+		<name>Your Name</name>
+		<email>your@email.com</email>
+	</author>
+
+	
+</feed>
